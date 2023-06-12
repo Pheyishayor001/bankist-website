@@ -6,7 +6,6 @@ const btnsOpenModal = document.querySelectorAll('.btn--show-modal');
 const btnScrollTo = document.querySelector('.btn--scroll-to');
 const section1 = document.querySelector('#section--1');
 const sectionOne = document.getElementById('section--1');
-console.log(sectionOne);
 
 const nav = document.querySelector('.nav');
 
